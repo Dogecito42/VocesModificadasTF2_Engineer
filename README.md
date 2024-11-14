@@ -3,6 +3,11 @@
 Paquete de voces modificadas del Ingeniero del juego Team Fortress 2, creadas por Dogecito42.
 Modifican el juego base añadiendo un amplio repertorio de voces customizadas en español
 
+
+
+https://github.com/user-attachments/assets/299a0f3d-4400-4564-87b1-e2af3843aebb
+
+
 # Contenido
 
 Este paquete incluye:
