@@ -14,3 +14,7 @@ Este paquete incluye:
 - Lineas de Mann VS Machine 
 
 # Uso
+
+Situándose en SteamLibrary\steamapps\common\Team Fortress 2\tf , crea las carpetas señaladas en la localización que se muestra en la imagen. Desde ahí solo pega la carpeta e inicia el juego 
+
+![](Img/tut.jpg)
