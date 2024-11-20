@@ -23,3 +23,4 @@ Este paquete incluye:
 Situándose en SteamLibrary\steamapps\common\Team Fortress 2\tf , crea las carpetas señaladas en la localización que se muestra en la imagen. Desde ahí solo pega la carpeta e inicia el juego 
 
 ![](Img/tut.jpg)
+![1730582122806](https://github.com/user-attachments/assets/f0303e1d-319e-407b-ad39-9ad23e52e449)
